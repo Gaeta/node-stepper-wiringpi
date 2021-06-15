@@ -12,7 +12,7 @@
  */
 
 
-var wpi = require('wiringpi-node');
+var wpi = require('node-wiring-pi');
 
 wpi.setup('gpio');
 
