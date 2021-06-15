@@ -12,7 +12,7 @@
  */
 
 
-var wpi = require('node-wiring-pi');
+var wpi = require('wiring-pi-2019');
 
 wpi.setup('gpio');
 

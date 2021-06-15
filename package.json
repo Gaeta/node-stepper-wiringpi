@@ -1,13 +1,13 @@
 {
   "name": "stepper-wiringpi",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Module to control a stepper motor",
   "main": "src/stepper-wiringpi.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "node-wiring-pi": "^0.0.5"
+    "wiring-pi-2019": "^1.0.4"
   },
   "keywords": [
     "stepper",
